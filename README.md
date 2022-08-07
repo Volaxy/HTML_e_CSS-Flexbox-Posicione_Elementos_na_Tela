@@ -25,3 +25,5 @@ URL do curso -> [Flexbox: Posicione Elementos na Tela](https://cursos.alura.com.
 
 ## 02 - Fazendo o Footer e Controlando melhor os Elementos &#x1F516;
 * Ajustando a quebra de elementos com o `flex-wrap`.
+
+## 03 - Grid Principal e Limitações do Flexbox &#x1F516;

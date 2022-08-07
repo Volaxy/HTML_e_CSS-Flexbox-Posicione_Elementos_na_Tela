@@ -22,3 +22,6 @@ URL do curso -> [Flexbox: Posicione Elementos na Tela](https://cursos.alura.com.
 ## 01 - Introdução ao Flexbox e Fazendo o Cabeçalho &#x1F516;
 * Apricar a propriedade do display flex para o elemento pai.
 * Separar o conteúdo em cada canto do elemento pai.
+
+## 02 - Fazendo o Footer e Controlando melhor os Elementos &#x1F516;
+* Ajustando a quebra de elementos com o `flex-wrap`.
